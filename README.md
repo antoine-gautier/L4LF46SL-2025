@@ -20,7 +20,6 @@ Vous y trouverez les liens et les fichiers de données utilisés en cours.
 - [AntConc](https://www.laurenceanthony.net/software/antconc/)
 - [IRaMuTeQ](https://pratinaud.gitpages.huma-num.fr/iramuteq-website/)
 - [Lexico 3](https://lexi-co.com/)
-- 
 
 ## Autres ressources
 - [Gallicagram](https://shiny.ens-paris-saclay.fr/app/gallicagram)
