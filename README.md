@@ -8,3 +8,5 @@ Vous y trouverez les liens et les fichiers de données utilisés en cours.
 ## Ressources textuelles
 - [TLFi](http://atilf.atilf.fr/tlf.htm)
 - [Frantext (via Sorbonne)](https://sorbonne-universite.primo.exlibrisgroup.com/discovery/dbfulldisplay?docid=alma991004567019806616&context=L&vid=33BSU_INST:33BSU&lang=fr&adaptor=Local%20Search%20Engine&tab=jsearch_slot&query=any%2Ccontains%2CFrantext&offset=0&databases=any,Frantext)
+- [Téléchargement du GLÀFF](http://redac.univ-tlse2.fr/lexiques/glaff/telechargement.html)
+- [Corpus Tools de Florent Moncomble](https://corpustools.prendrelangue.fr/)
